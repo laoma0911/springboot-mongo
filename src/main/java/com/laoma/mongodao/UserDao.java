@@ -13,4 +13,7 @@ import org.springframework.stereotype.Service;
 @Component
 public class UserDao extends BaseMongoDAOImpl<User> {
 
+
+
+
 }
